@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/PT-github/testGit/issues"
   },
-  "homepage": "https://github.com/PT-github/testGit#readme"
+  "homepage": "https://github.com/PT-github/testGit#readme",
+  "dependencies": {
+    "vue": "^2.6.14"
+  }
 }
